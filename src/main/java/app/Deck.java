@@ -25,7 +25,6 @@ public class Deck {
            //Botei como um placeholder para eu não ficar confuso, pode mudar carrion se quiser
 
         }
-
     }
 
     public void removerCarta(Carta removerCartas){
