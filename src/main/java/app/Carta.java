@@ -63,6 +63,10 @@ public class Carta {
         this.custoElixir = custoElixir;
     }
 
+    public int getCustoElixir() {
+        return custoElixir;
+    }
+
     public TipoCarta getTipoCarta(){
         return tipoCarta;
     }
